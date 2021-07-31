@@ -2,7 +2,7 @@
 Spyware that keeps track of your girlfriend/wife or boyfriend/husband activities.
 
 ## Public disclaimer
-Anything you do with this software I shall not be held responsible for any consequences and hence this project is strictly only for educational purposes only.
+Anything you do with this software I shall not be held responsible and hence this project is strictly only for educational purposes only.
 
 ## What I intent to achieve with the project
 1. A mobile App
